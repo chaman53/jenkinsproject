@@ -1,5 +1,5 @@
 #!/bin/bash
-# this script sets up Jenkins job to create rpm per name
+##### this script sets up Jenkins job to create rpm per name
 # Inputs
 # $1 = GitHub user name
 # $2 = Build Number that is passed by Jenkins
