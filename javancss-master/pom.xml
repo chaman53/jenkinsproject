@@ -227,7 +227,7 @@
           <version>2.17</version>
           <configuration>
             <excludes>
-              <!-- legacy tests using main -->
+              <!-- legacy tests using mained -->
               <exclude>javancss/test/*.class</exclude>
             </excludes>
           </configuration>
