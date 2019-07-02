@@ -1,4 +1,4 @@
-#!/bin/bash#!/bin/bash
+#!/bin/bash
 # SCRIPT:  fibo_iterative.sh
 # USAGE:   fibo_iterative.sh [Number]
 # PURPOSE: Generate Fibonacci sequence.
