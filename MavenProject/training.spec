@@ -1,6 +1,6 @@
 #
 # Example spec file for maven example web app...
-######
+##########
 # Usage - RPMBUILD --define _ghubid --define _build_number -ba SPECS/_ghubid.spec
 #
 Summary: Simple Maven example web application
